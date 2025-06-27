@@ -40,22 +40,21 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
-    location: "🌍 Your City, Your Country",
-    code: ["JavaScript", "Python", "Java", "C++", "Go"],
+    name: "Andre Christian Saragih",
+    location: "🌍 Simalungun, Indonesia",
+    code: ["JavaScript", "Python", "Java", "C++", "Java"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vue", "Angular"],
-            css: ["Sass", "Tailwind CSS", "Bootstrap"]
+            js: ["node.js"],
+            css: ["Tailwind CSS"]
         },
         backEnd: {
             js: ["Node", "Express", "NestJS"],
             python: ["Django", "Flask", "FastAPI"],
-            java: ["Spring Boot"],
-            databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"]
+            databases: ["MariaDB", "MySQL".]
         },
-        devOps: ["AWS", "Docker", "Kubernetes", "GitHub Actions"],
+        devOps: ["AWS", "GitHub Actions"],
         mobile: ["React Native", "Flutter"]
     },
     currentFocus: "Building scalable web applications with modern tech stack",
