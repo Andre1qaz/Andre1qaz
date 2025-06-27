@@ -11,12 +11,11 @@
 - Web development (Frontend & Backend)
 - JavaScript (ES6+), Node.js
 - Version Control with Git & GitHub
-- UI/UX design basics
+- UI/UX design
 
 🌱 I'm currently enhancing my skills in:
 - Full-stack development
 - JavaScript backend frameworks
-- DevOps basics
 
 ---
 
