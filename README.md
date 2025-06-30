@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Andre Christian Saragih!
+# Hi, I'm Andre Christian Saragih...
 
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast;Tech+Innovator)
 
-### 🌐 Connect with me:
+### Connect with me:
 
 <p align="center">
 <a href="https://github.com/Andre1qaz">
@@ -32,7 +32,7 @@
 ## 🛠️ Tech Stack & Tools
 <div align="center">
 
-### 💻 Languages & Technologies
+###  Languages & Technologies
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>&nbsp;&nbsp;
@@ -43,8 +43,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="Haskell" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>&nbsp;&nbsp;
 
-### 🚀 Frameworks & Libraries
+
+###  Frameworks & Libraries
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>&nbsp;&nbsp;
@@ -53,7 +55,7 @@
 <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" width="50" height="50"/>&nbsp;&nbsp;
 </p>
 
-### 🗄️ Databases & Storage
+###  Databases & Storage
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>&nbsp;&nbsp;
@@ -61,22 +63,22 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>&nbsp;&nbsp;
 </p>
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>&nbsp;&nbsp;x 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>&nbsp;&nbsp;
 
 </p>
 
-### 🔧 Tools & Platforms
+###  Tools & Platforms
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50" style="background-color: white; border-radius: 8px; padding: 4px"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu" width="50" height="50"/>&nbsp;&nbsp;
@@ -88,7 +90,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 </div>
@@ -98,7 +100,7 @@
 
 </div>
 
-### 🏆 GitHub Trophies
+###  GitHub Trophies
 <div align="center">
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Andre1qaz&theme=onedark&column=7)
@@ -120,7 +122,7 @@
 ```
 ---
 
-## 📞 Let's Connect!
+##  Let's Connect
 
 <div align="center">
 
@@ -130,9 +132,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andree____________ee)
 
 💌 **Email:** [andresaragih932@gmail.com](mailto:andresaragih932@gmail.com)  
-🌐 **Portfolio:** [.com](https://.com)  
-📄 **Resume:** [Download CV](https://.pdf)
-
 </div>
 
 ---
