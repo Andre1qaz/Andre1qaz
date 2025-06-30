@@ -133,7 +133,7 @@
 ---
 
 <div align="center">
-### 🎉 Thanks for visiting my profile!
+🎉 Thanks for visiting my profile!
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
