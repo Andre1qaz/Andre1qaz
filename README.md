@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Andre Christian Saragih!
 
 <div align="center">
 
@@ -18,9 +18,6 @@
 </a>&nbsp;&nbsp;
 <a href="https://yourportfolio.com">
 <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&style=plastic&logoWidth=30" alt="Portfolio" style="border-radius: 50%;"/>
-</a>&nbsp;&nbsp;
-<a href="https://twitter.com/yourusername">
-<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=plastic&logoWidth=30" alt="Twitter" style="border-radius: 50%;"/>
 </a>&nbsp;&nbsp;
 <a href="https://instagram.com/yourusername">
 <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=plastic&logoWidth=30" alt="Instagram" style="border-radius: 50%;"/>
