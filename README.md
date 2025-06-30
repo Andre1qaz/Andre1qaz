@@ -121,12 +121,12 @@
 
 **I'm always open to interesting conversations and collaboration opportunities!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anchsr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anchsr)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andree____________ee)
 
 💌 **Email:** [andresaragih932@gmail.com](mailto:andresaragih932@gmail.com)  
-🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
-📄 **Resume:** [Download CV](https://yourresume.pdf)
+🌐 **Portfolio:** [.com](https://.com)  
+📄 **Resume:** [Download CV](https://.pdf)
 
 </div>
 
