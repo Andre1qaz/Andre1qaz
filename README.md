@@ -18,7 +18,9 @@
 </div>
 
 <div align="center">
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast;Tech+Innovator)
+
 <div align="center">
 ###  Languages & Technologies
 
