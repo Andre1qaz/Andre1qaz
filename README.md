@@ -69,9 +69,6 @@
 ### Connect with me:
 
 <p align="center">
-<a href="https://github.com/Andre1qaz">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=plastic&logoWidth=30" alt="GitHub" style="border-radius: 50%;"/>
-</a>&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/anchsr">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&logoWidth=30" alt="LinkedIn" style="border-radius: 50%;"/>
@@ -79,10 +76,6 @@
 
 <a href="mailto:adresaragih932@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic&logoWidth=30" alt="Gmail" style="border-radius: 50%;"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://null content.com">
-<img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&style=plastic&logoWidth=30" alt="Portfolio" style="border-radius: 50%;"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://instagram.com/andree____________ee">
