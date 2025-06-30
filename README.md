@@ -24,42 +24,7 @@
 </a>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=plastic&label=Profile+Views" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=plastic&color=blue&logo=github" alt="GitHub followers"/>
-</p>
-
 </div>
-
----
-
-## 🚀 About Me
-
-```javascript
-const developer = {
-    name: "Andre Christian Saragih",
-    location: "🌍 Simalungun, Indonesia",
-    code: ["JavaScript", "Python", "Java", "C++", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        frontEnd: {
-            js: ["node.js"],
-            css: ["Tailwind CSS"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Django", "Flask", "FastAPI"],
-            databases: ["MariaDB", "MySQL".]
-        },
-        devOps: ["AWS", "GitHub Actions"],
-        mobile: ["React Native", "Flutter"]
-    },
-    currentFocus: "Building scalable web applications with modern tech stack",
-    funFact: "I debug with console.log() and I'm proud of it! 🐛"
-};
-```
-
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -69,33 +34,21 @@ const developer = {
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="Haskell" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50"/>
 
 ### 🚀 Frameworks & Libraries
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="50" height="50"/>&nbsp;&nbsp;
+<p align="center">\
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
 </p>
 
 ### 🗄️ Databases & Storage
@@ -104,9 +57,6 @@ const developer = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -116,9 +66,6 @@ const developer = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50"/>
 </p>
 
 ### 🔧 Tools & Platforms
@@ -141,41 +88,19 @@ const developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
-
 </div>
-
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andre1qaz&theme=tokyonight)
 
 </div>
 
 ### 🏆 GitHub Trophies
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=Andre1qaz&theme=onedark&column=7)
 
 </div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-### 🌟 [Project Name 1](https://github.com/yourusername/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight)](https://github.com/yourusername/project1)
-
-**Tech Stack:** React • Node.js • MongoDB • AWS  
-*A comprehensive web application that helps users manage their daily tasks with real-time collaboration features.*
-
----
-
-### 🚀 [Project Name 2](https://github.com/yourusername/project2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight)](https://github.com/yourusername/project2)
 
 **Tech Stack:** Vue.js • Python • PostgreSQL • Docker  
 *An innovative solution for data visualization with interactive dashboards and analytics.*
@@ -191,74 +116,27 @@ const developer = {
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Andre1qaz&theme=tokyo-night)
 
 </div>
 
 ---
 
-## 🎯 Current Goals & Learning
 
-<details>
-<summary>🔍 Click to expand my learning journey</summary>
 
-### 🎯 2024 Goals
-- [ ] Master **Kubernetes** and **Microservices Architecture**
-- [ ] Contribute to **5+ Open Source Projects**
-- [ ] Build a **SaaS Product** from scratch
-- [ ] Learn **Machine Learning** with **TensorFlow**
-- [ ] Get **AWS Solutions Architect** certification
-
-### 📚 Currently Learning
-- 🔥 **WebAssembly** for high-performance web apps
-- 🧠 **GraphQL** and modern API design
-- 🎨 **Three.js** for 3D web experiences
-- 📱 **React Native** for mobile development
-
-### 🏆 Recent Achievements
-- ✅ Completed **100 Days of Code** challenge
-- ✅ Built and deployed **10+ full-stack applications**
-- ✅ Mentored **50+ junior developers**
-- ✅ Speaker at **3 tech conferences**
-
-</details>
-
----
-
-## 💡 Fun Facts & Interests
-
-<div align="center">
-
-| 🎮 Gaming | 📸 Photography | 🎵 Music | ☕ Coffee |
-|-----------|----------------|----------|----------|
-| Strategy Games | Street Photography | Electronic/Jazz | Specialty Coffee |
-| Indie Games | Landscape | Ambient | Cold Brew |
 
 </div>
 
 ```ascii
-    ╭─────────────────────────────────────────────────╮
-    │  "Code is like humor. When you have to explain  │
-    │   it, it's bad." - Cory House                   │
-    ╰─────────────────────────────────────────────────╯
-                            ╱|、
-                          (˚ˎ 。7  
-                           |、˜〵          
-                           じしˍ,)ノ
+    ╭─────────────────────────────────────────────────╮      ╭───────────────────────────────────────╮
+    │  "Code is like humor. When you have to explain  │      │    “Make it work, make it right,      │
+    │   it, it's bad." - Cory House                   │      │     make it fast.” - Kent Beck        │
+    ╰─────────────────────────────────────────────────╯      ╰───────────────────────────────────────╯
+                            ╱|、                                                   ╱|、
+                          (˚ˎ 。7                                                 (˚ˎ 。7  
+                           |、˜〵                                                  |、˜〵    
+                           じしˍ,)ノ                                               じしˍ,)ノ
 ```
-
-```ascii
-    ╭───────────────────────────────────────╮
-    │    “Make it work, make it right,      │
-    │     make it fast.” - Kent Beck        │
-    ╰───────────────────────────────────────╯
-                            ╱|、
-                          (˚ˎ 。7  
-                           |、˜〵          
-                           じしˍ,)ノ
-```
-
-
 ---
 
 ## 📞 Let's Connect!
