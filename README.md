@@ -94,20 +94,17 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Andre1qaz&theme=onedark&column=7)
 
-
 ---
-
-</div>
 
 ```ascii
        ╭─────────────────────────────────────────────────╮      ╭───────────────────────────────────────╮
-       │  "Code is like humor. When you have to explain  │      │    “Make it work, make it right,      │
-       │   it, it's bad." - Cory House                   │      │     make it fast.” - Kent Beck        │
+       │  "Code is like humor. When you have to explain  │      │    "Make it work, make it right,      │
+       │   it, it's bad." - Cory House                   │      │     make it fast." - Kent Beck        │
        ╰─────────────────────────────────────────────────╯      ╰───────────────────────────────────────╯
-                                              ╱|、                                                   ╱|、
-                                             (˚ˎ 。7                                                (˚ˎ 。7  
-                                             |、 ˜〵                                                 |、 ˜〵    
-                                             じしˍ,)ノ                                               じしˍ,)ノ
+                                ╱|、                                                   ╱|、
+                               (˚ˎ 。7                                                (˚ˎ 。7  
+                               |、˜〵                                                 |、˜〵    
+                               じしˍ,)ノ                                               じしˍ,)ノ
 ```
 --- 
 <div align="center">
