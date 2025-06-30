@@ -7,13 +7,13 @@
 ### 🌐 Connect with me:
 
 <p align="center">
-<a href="https://github.com/yourusername">
+<a href="https://github.com/Andre1qaz">
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=plastic&logoWidth=30" alt="GitHub" style="border-radius: 50%;"/>
 </a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/yourprofile">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&logoWidth=30" alt="LinkedIn" style="border-radius: 50%;"/>
 </a>&nbsp;&nbsp;
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:adresaragih932@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic&logoWidth=30" alt="Gmail" style="border-radius: 50%;"/>
 </a>&nbsp;&nbsp;
 <a href="https://yourportfolio.com">
@@ -23,11 +23,9 @@
 <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=plastic&logoWidth=30" alt="Instagram" style="border-radius: 50%;"/>
 </a>
 </p>
-
 </div>
 
 ## 🛠️ Tech Stack & Tools
-
 <div align="center">
 
 ### 💻 Languages & Technologies
@@ -109,22 +107,6 @@
 
 ---
 
-## 📈 Coding Activity
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Andre1qaz&theme=tokyo-night)
-
-</div>
-
----
-
-
-
-
 </div>
 
 ```ascii
@@ -145,12 +127,10 @@
 
 **I'm always open to interesting conversations and collaboration opportunities!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anchsr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andree____________ee)
 
-💌 **Email:** [your.email@gmail.com](mailto:your.email@gmail.com)  
+💌 **Email:** [andresaragih932@gmail.com](mailto:andresaragih932@gmail.com)  
 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
 📄 **Resume:** [Download CV](https://yourresume.pdf)
 
@@ -159,12 +139,10 @@
 ---
 
 <div align="center">
-
 ### 🎉 Thanks for visiting my profile!
+![Snake animation](https://github.com/Andre1qaz/Andre1qaz/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
-
-**⭐ From [yourusername](https://github.com/yourusername)**
+**⭐ From [Andre1qaz](https://github.com/Andre1qaz)**
 
 </div>
 
