@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=plastic&logoWidth=30" alt="GitHub" style="border-radius: 50%;"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/anchsr">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&logoWidth=30" alt="LinkedIn" style="border-radius: 50%;"/>
 </a>&nbsp;&nbsp;
 
@@ -126,18 +126,16 @@
 
 <div align="center">
 
-**I'm always open to interesting conversations and collaboration opportunities!**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anchsr)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andree____________ee)
 
-💌 **Email:** [andresaragih932@gmail.com](mailto:andresaragih932@gmail.com)  
+ **Email:** [andresaragih932@gmail.com](mailto:andresaragih932@gmail.com)  
 </div>
 
 ---
 
 <div align="center">
-🎉 Thanks for visiting my profile!
+ Thanks for visiting my profile!
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
