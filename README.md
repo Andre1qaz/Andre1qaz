@@ -98,22 +98,16 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Andre1qaz&theme=onedark&column=7)
 
-</div>
-
-**Tech Stack:** Vue.js • Python • PostgreSQL • Docker  
-*An innovative solution for data visualization with interactive dashboards and analytics.*
-
-</div>
 
 ---
 
 </div>
 
 ```ascii
-    ╭─────────────────────────────────────────────────╮      ╭───────────────────────────────────────╮
-    │  "Code is like humor. When you have to explain  │      │    “Make it work, make it right,      │
-    │   it, it's bad." - Cory House                   │      │     make it fast.” - Kent Beck        │
-    ╰─────────────────────────────────────────────────╯      ╰───────────────────────────────────────╯
+        ╭─────────────────────────────────────────────────╮      ╭───────────────────────────────────────╮
+        │  "Code is like humor. When you have to explain  │      │    “Make it work, make it right,      │
+        │   it, it's bad." - Cory House                   │      │     make it fast.” - Kent Beck        │
+        ╰─────────────────────────────────────────────────╯      ╰───────────────────────────────────────╯
                             ╱|、                                                   ╱|、
                           (˚ˎ 。7                                                 (˚ˎ 。7  
                            |、˜〵                                                  |、˜〵    
