@@ -4,12 +4,10 @@
 <p align="center">
 
 <a href="https://linkedin.com/in/anchsr">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&logoWidth=30" alt="LinkedIn" style="border-radius: 50%;"/>
-</a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&logoWidth=30" alt="LinkedIn" style="border-radius: 50%;"/></a>&nbsp;&nbsp;
 
 <a href="mailto:adresaragih932@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic&logoWidth=30" alt="Gmail" style="border-radius: 50%;"/>
-</a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic&logoWidth=30" alt="Gmail" style="border-radius: 50%;"/></a>&nbsp;&nbsp;
 
 <a href="https://instagram.com/andree____________ee">
 <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=plastic&logoWidth=30" alt="Instagram" style="border-radius: 50%;"/>
@@ -22,6 +20,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast;Tech+Innovator)
 
 <div align="center">
+
 ###  Languages & Technologies
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>&nbsp;&nbsp;
