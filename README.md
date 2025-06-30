@@ -134,13 +134,6 @@
 
 <div align="center">
 ### 🎉 Thanks for visiting my profile!
-![Snake animation](https://github.com/Andre1qaz/Andre1qaz/blob/output/github-contribution-grid-snake.svg)
-
-**⭐ From [Andre1qaz](https://github.com/Andre1qaz)**
-
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
