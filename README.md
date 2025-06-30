@@ -78,7 +78,7 @@
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="GitHub Round" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50" style="border-radius: 50%"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu" width="50" height="50"/>&nbsp;&nbsp;
