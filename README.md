@@ -1,11 +1,7 @@
-<!-- Animated skill bars -->
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 # Hi, I'm Andre Christian Saragih...  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70">
-
-
 ### Connect with me:
-
 <p align="center">
 
 <a href="https://linkedin.com/in/anchsr">
@@ -19,15 +15,12 @@
 </a>
 </p>
 </div>
-
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast;Tech+Innovator) <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-
 <div align="center">
 
 ###  Languages & Technologies
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="50" height="50"/>&nbsp;&nbsp;
@@ -41,7 +34,6 @@
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
 
 ###  Frameworks & Libraries
-
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50" height="50"/>&nbsp;&nbsp;
@@ -51,7 +43,6 @@
 </p>
 
 ###  Databases & Storage
-
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>&nbsp;&nbsp;
@@ -59,7 +50,6 @@
 </p>
 
 ###  Cloud & DevOps
-
 <p align="center">
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="60" height="60"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>&nbsp;&nbsp;
@@ -69,7 +59,6 @@
 </p>
 
 ###  Tools & Platforms
-
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>&nbsp;&nbsp;
@@ -80,9 +69,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
 </p>
-
 </div>
-
 ---
 
 ##  GitHub Analytics
@@ -109,19 +96,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </div>
-
-
-
-<!-- Rotating tech stack -->
-<p align="center">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-</p>
-
-
-<!-- Matrix effect -->
-<p align="center">
-<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.gif" width="30"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.gif" width="30"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.gif" width="30">
-</p>
-
