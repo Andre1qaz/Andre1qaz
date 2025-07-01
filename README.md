@@ -72,7 +72,7 @@
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>&nbsp;&nbsp;
-<img src="(https://techstack-generator.vercel.app/github-icon.svg)" alt="GitHub" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu" width="50" height="50"/>&nbsp;&nbsp;
