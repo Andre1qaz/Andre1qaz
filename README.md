@@ -31,6 +31,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="HTML5" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>&nbsp;&nbsp;
@@ -39,14 +40,14 @@
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
 
-
 ###  Frameworks & Libraries
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
 </p>
 
 ###  Databases & Storage
@@ -54,7 +55,7 @@
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/>&nbsp;&nbsp;
 </p>
 
 ###  Cloud & DevOps
@@ -63,7 +64,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/>&nbsp;&nbsp;
 
 </p>
 
@@ -123,16 +124,4 @@
 <p align="center">
 <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.gif" width="30"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.gif" width="30"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.gif" width="30">
 </p>
-
-
----
-![JavaScript](https://techstack-generator.vercel.app/js-icon.svg)
-![TypeScript](https://techstack-generator.vercel.app/ts-icon.svg)
-![Python](https://techstack-generator.vercel.app/python-icon.svg)
-![React](https://techstack-generator.vercel.app/react-icon.svg)
-![Django](https://techstack-generator.vercel.app/django-icon.svg)
-![MySQL](https://techstack-generator.vercel.app/mysql-icon.svg)
-![AWS](https://techstack-generator.vercel.app/aws-icon.svg)
-![Docker](https://techstack-generator.vercel.app/docker-icon.svg)
-![Kubernetes](https://techstack-generator.vercel.app/kubernetes-icon.svg)
 
