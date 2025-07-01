@@ -91,7 +91,8 @@
 
 --- 
 <div align="center">
- Thanks for visiting my profile!
+
+####  Thanks for visiting my profile!
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22)
 
