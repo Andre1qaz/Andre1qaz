@@ -92,9 +92,8 @@
 --- 
 <div align="center">
 
-###  Thanks for visiting my profile!
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=;Andre+Christian+saragih&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22)
+###  Thanks for visiting my profile!
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
