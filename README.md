@@ -2,7 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast;Tech+Innovator)
 
-# Hi, I'm Andre Christian Saragih...  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70">
+<h1 align="left">Hi, I'm Andre Christian Saragih...&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/></h1>
+
 ### Connect with me:
 <a href="https://linkedin.com/in/anchsr">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&logoWidth=30" alt="LinkedIn" style="border-radius: 50%;"/></a>&nbsp;&nbsp;
