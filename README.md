@@ -70,7 +70,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
 </p>
 </div>
----
 
 ##  GitHub Analytics
 
