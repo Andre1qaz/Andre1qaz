@@ -72,7 +72,7 @@
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>&nbsp;&nbsp;
+<img src="(https://techstack-generator.vercel.app/github-icon.svg)" alt="GitHub" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu" width="50" height="50"/>&nbsp;&nbsp;
@@ -102,6 +102,8 @@
 --- 
 <div align="center">
  Thanks for visiting my profile!
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
@@ -133,25 +135,4 @@
 ![AWS](https://techstack-generator.vercel.app/aws-icon.svg)
 ![Docker](https://techstack-generator.vercel.app/docker-icon.svg)
 ![Kubernetes](https://techstack-generator.vercel.app/kubernetes-icon.svg)
-![GitHub](https://techstack-generator.vercel.app/github-icon.svg)
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,ts,react,vue,nodejs)
-![My Skills](https://skillicons.dev/icons?i=python,java,php,go,rust,cpp,c,cs)
-![My Skills](https://skillicons.dev/icons?i=django,flask,laravel,spring,express,fastapi)
-![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,sqlite)
-![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins)
-![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,blender)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,nodejs,python,java,php,go,docker,aws,git,github)
-
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
