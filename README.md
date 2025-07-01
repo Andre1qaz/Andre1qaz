@@ -61,7 +61,7 @@
 ###  Cloud & DevOps
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="60" height="60"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/>&nbsp;&nbsp;
