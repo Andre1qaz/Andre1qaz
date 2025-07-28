@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="50%" />
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=holla+I'm+Andre+Christian+Saragih;Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast;Tech+Innovator)
 
@@ -24,7 +24,6 @@
 <div align="center">
 
 ###  Languages & Technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="HTML5" width="50" height="50"/>&nbsp;&nbsp;
