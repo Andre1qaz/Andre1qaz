@@ -1,20 +1,30 @@
+<!-- Banner or welcome graphic -->
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="50%" />
 
+<!-- GIF di pojok kanan atas -->
+<div align="right">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180">
+</div>
+
+<!-- Typing SVG effect -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=holla+I'm+Andre+Christian+Saragih;Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast;Tech+Innovator)
 
-# Hi, I'm Andre Christian Saragih...  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70">
+# Hi, I'm Andre Christian Saragih...
+
 ### Connect with me:
+
 <a href="https://linkedin.com/in/anchsr">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&logoWidth=30" alt="LinkedIn" style="border-radius: 50%;"/></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>&nbsp;
 
 <a href="mailto:adresaragih932@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic&logoWidth=30" alt="Gmail" style="border-radius: 50%;"/></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>&nbsp;
 
 <a href="https://instagram.com/andree____________ee">
-<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=plastic&logoWidth=30" alt="Instagram" style="border-radius: 50%;"/>
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-</p>
-</div>
+
 
 <div align="center">
 
