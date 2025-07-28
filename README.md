@@ -26,8 +26,7 @@
 <div align="center">
 
 ###  Languages & Technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Programming" width="40" height="50"/>
-" alt="Figma" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Programming" width="40" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="HTML5" width="50" height="50"/>&nbsp;&nbsp;
