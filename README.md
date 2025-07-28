@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</div>
+<div align="center">
 
 # Hi, I'm Andre Christian Saragih... <!-- Typing SVG effect -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=holla+I'm+Andre+Christian+Saragih;Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast;Tech+Innovator)
