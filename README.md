@@ -18,56 +18,48 @@
 
 ## 🛠 Tech Stack & Tools
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      **Languages & Technologies**
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35"/>
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="35"/>
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35"/>
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="35"/>
-    </td>
-    <td align="center" width="50%">
-      **Frameworks & Libraries**
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
-      <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="35"/>
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="35"/>
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="35"/>
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="35"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      **Databases & Cloud**
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/>
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/>
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="35"/>
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="35"/>
-    </td>
-    <td align="center">
-      **Design & Tools**
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35"/>
-    </td>
-  </tr>
-</table>
+### 🌐 Languages & Technologies
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C"/>&nbsp;
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" title="JavaScript"/>&nbsp;
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" title="TypeScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" title="CSS3"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" title="PHP"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>&nbsp;
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" title="Python"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="50" title="Haskell"/>
+</p>
+
+### 🚀 Frameworks & Libraries
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="50" title="Laravel"/>&nbsp;
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" title="Django"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" title="Flask"/>&nbsp;
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" title="Kubernetes"/>&nbsp;
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" title="React"/>
+</p>
+
+### 💾 Databases & Cloud
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>&nbsp;
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" title="MySQL"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/>&nbsp;
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" title="AWS"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" title="GCP"/>&nbsp;
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" title="Docker"/>
+</p>
+
+### 🎨 Design & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50" title="Blender"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" title="Postman"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux"/>
+</p>
 
 ---
 
