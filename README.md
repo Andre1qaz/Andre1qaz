@@ -66,7 +66,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andre1qaz&theme=tokyonight" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=Andre1qaz&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 </div>
