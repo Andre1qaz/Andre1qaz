@@ -7,20 +7,6 @@
 # Hi, I'm Andre Christian Saragih...
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=holla+I'm+Andre+Christian+Saragih;Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast;Tech+Innovator)
 
-<!-- Animasi Ular -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andre1qaz/Andre1qaz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andre1qaz/Andre1qaz/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Andre1qaz/Andre1qaz/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<!-- Grafik 3D -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Andre1qaz/Andre1qaz/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph">
-</div>
-
 ###  Connect with me:
 <p align="center">
 <a href="https://linkedin.com/in/anchsr"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -29,14 +15,6 @@
 </p>
 
 ---
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andre1qaz/Andre1qaz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andre1qaz/Andre1qaz/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Andre1qaz/Andre1qaz/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 ##  Tech Stack & Tools
 
@@ -103,4 +81,9 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</div>
+
+<!-- Grafik 3D -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Andre1qaz/Andre1qaz/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph">
 </div>
