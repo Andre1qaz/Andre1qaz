@@ -77,13 +77,12 @@
   <img src="https://streak-stats.demolab.com?user=Andre1qaz&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</div>
-
 <!-- Grafik 3D -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Andre1qaz/Andre1qaz/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph">
+</div>
+
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </div>
