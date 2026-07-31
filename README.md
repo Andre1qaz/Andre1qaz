@@ -16,6 +16,12 @@
 
 ---
 
+## GitHub Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
 ##  Tech Stack & Tools
 
 ###  Languages & Technologies
