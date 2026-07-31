@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠 Tech Stack & Tools
+##  Tech Stack & Tools
 
 ###  Languages & Technologies
 <p align="center">
