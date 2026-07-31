@@ -7,6 +7,16 @@
 # Hi, I'm Andre Christian Saragih...
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=holla+I'm+Andre+Christian+Saragih;Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast;Tech+Innovator)
 
+<!-- Animasi Ular -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andre1qaz/Andre1qaz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andre1qaz/Andre1qaz/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Andre1qaz/Andre1qaz/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<!-- Grafik 3D -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Andre1qaz/Andre1qaz/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph">
 </div>
