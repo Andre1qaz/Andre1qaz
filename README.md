@@ -7,7 +7,7 @@
 # Hi, I'm Andre Christian Saragih...
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=holla+I'm+Andre+Christian+Saragih;Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast;Tech+Innovator)
 
-### 🤝 Connect with me:
+###  Connect with me:
 <p align="center">
 <a href="https://linkedin.com/in/anchsr"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:adresaragih932@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -18,7 +18,7 @@
 
 ## 🛠 Tech Stack & Tools
 
-### 🌐 Languages & Technologies
+###  Languages & Technologies
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C"/>&nbsp;
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" title="JavaScript"/>&nbsp;
@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="50" title="Haskell"/>
 </p>
 
-### 🚀 Frameworks & Libraries
+###  Frameworks & Libraries
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>&nbsp;
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="50" title="Laravel"/>&nbsp;
@@ -41,7 +41,7 @@
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" title="React"/>
 </p>
 
-### 💾 Databases & Cloud
+###  Databases & Cloud
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>&nbsp;
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" title="MySQL"/>&nbsp;
@@ -51,7 +51,7 @@
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" title="Docker"/>
 </p>
 
-### 🎨 Design & Tools
+###  Design & Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50" title="Blender"/>&nbsp;
@@ -63,7 +63,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Andre1qaz&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
